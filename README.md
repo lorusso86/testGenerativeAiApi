@@ -1,2 +1,2 @@
 # testGenerativeAiApi
-test of generative ai api in python
+test of generative ai api in python using many simple examples.
